@@ -5,3 +5,9 @@ body{background-color: blueviolet;}
 ol{color: aquamarine;}
 ul{font-style: oblique;}
 ol{font-style: italic;}
+div{background-color: black;}
+h1{background-color: aliceblue;text-align: center;}
+header{font-size: xx-large;font-style: oblique;}
+header{text-align: center;}
+img{border: 25px ridge green }
+h1{border:15px ridge green}
