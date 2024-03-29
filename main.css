@@ -1,5 +1,7 @@
 h1{color:aquamarine}
-p{font-style: unset;}
+p{color: aqua;}
 header{color:green}
-header{font-style: initial;}
-main{background-color: aquamarine;}
+body{background-color: blueviolet;}
+ol{color: aquamarine;}
+ul{font-style: oblique;}
+ol{font-style: italic;}
